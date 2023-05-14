@@ -1,1 +1,3 @@
 Hello this is waleed2
+
+(new line is added in the file)$
